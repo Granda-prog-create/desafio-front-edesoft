@@ -27,11 +27,15 @@ yarn add  @chakra-ui/react @chakra-ui/icons
 
 # A aplicação
 
-image.png
+
+![Captura de tela de 2023-03-10 16-09-53](https://user-images.githubusercontent.com/79712782/224405761-9e0641c3-e441-4db5-962b-139a1f50e2e7.png)
+
+![Captura de tela de 2023-03-10 16-10-19](https://user-images.githubusercontent.com/79712782/224405794-0b610bcf-b6b4-43cb-99da-b722b9dce133.png)
+
+![Captura de tela de 2023-03-10 16-10-34](https://user-images.githubusercontent.com/79712782/224405817-5c46ea4e-d8dc-4933-a31b-037790a169aa.png)
 
 
-image.png
+![Captura de tela de 2023-03-10 16-10-43](https://user-images.githubusercontent.com/79712782/224405825-ee21faf0-c657-4a4d-a36a-0f8835a81ca9.png)
 
-image.png
 
-image.png 
+
